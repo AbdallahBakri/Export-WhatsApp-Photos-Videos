@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-testid="checkbox-round-passive"]').forEach(s => s.click())
